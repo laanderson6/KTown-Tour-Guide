@@ -1,6 +1,4 @@
-<head> 
-<style>
-  <link href="style.css" rel="stylesheet" type="text/css" /><style>li {
+{
     display: inline;
     padding: 0px 10px 0px 10px;
 }
@@ -65,5 +63,3 @@ input[type="email"] {
   border: 1px solid #ccc;
   margin-right: 10px;
 }
-</style>
-</head>
