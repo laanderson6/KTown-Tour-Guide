@@ -1,6 +1,7 @@
-<link href="style.css" rel="stylesheet" type="text/css" /><style>li {
-  display: inline;
-  padding: 0px 10px 0px 10px;
+<head> 
+  <link href="style.css" rel="stylesheet" type="text/css" /><style>li {
+    display: inline;
+    padding: 0px 10px 0px 10px;
 }
 header {
   background: url("kuwaitcity.jpg") no-repeat center;
@@ -64,3 +65,4 @@ input[type="email"] {
   margin-right: 10px;
 }
 </style>
+</head>
